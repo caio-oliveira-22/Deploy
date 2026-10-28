@@ -1,4 +1,4 @@
 pandas
 plotly
 streamlit
-pthon-calamine
+python-calamine
